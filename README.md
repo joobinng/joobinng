@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joobinng
+- 👀 I’m interested in front end Web Development
+- 🌱 I’m currently learning more CSS, Javascript, and Adobe Illustrator
+- 📫 You can reach me on LinkedIn or https://www.linkedin.com/in/justin-ng-05170a198
