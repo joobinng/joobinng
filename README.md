@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joobinng
-- 👀 I’m interested in front end Web Development
-- 🌱 I’m currently learning more CSS, Javascript, and Adobe Illustrator
-- 📫 You can reach me on LinkedIn or https://www.linkedin.com/in/justin-ng-05170a198
+- 👋 Hi, I’m Justin
+- 👀 I’m interested in progressing my skills as a security analyst. Here you'll find some projects that I've worked on during college as well as some projects that I've worked on my own for fun!
+- 🌱 I’m currently learning python, reading packet captures, and analyzing networks.
+- 📫 You can reach me on LinkedIn here linkedin.com/in/justin-ng-it/
